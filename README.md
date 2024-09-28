@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**bugpull/bugpull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**BUGPULL** is a ✨ Team of smart contract auditors ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+credits:  [hunter](github.com/IlIlHunterlIlI)  and [Rzizah](github.com/rzizah) .
+
+- 🔭 We are currently participating in public audit contests on [C4](https://code4rena.com/@bugpull) and [sherlock](https://audits.sherlock.xyz/watson/bugpull)
+- 👯 We help you secure your code
+- 💬 Ask for advice
+- 📫 How to reach us:
+  - [@BUGPULL](x.com/bugpull)
+  - [@hunter](x.com/IlIlHunterlIlI)
+  - [@rzizah](x.com/rzizah_)
+
+# BUGPULL Auditing Portfolio
+This is the Audit portfolio collecting the contests the team participated in and the engagements in Web3 security.
+
+
+
+## **BUGPULL** Audit Contests
+
+| Contest                                                       | Description           | Findings                                   | Rank |                         Report                         |
+| :------------------------------------------------------------ | :-------------------- | :----------------------------------------- | :--: | :----------------------------------------------------: |
+| [munchables-LandManager](https://code4rena.com/audits/2024-07-munchables) | GameFi, Point Farming | [5 L, 3 H](Contests/2024-07-munchables.md) | 5th  | [📄](https://code4rena.com/reports/2024-07-munchables) |
