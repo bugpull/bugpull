@@ -1,19 +1,19 @@
 ## Hi there 👋
 
 
-**BUGPULL** is a ✨ Team of smart contract auditors ✨
+**BugPull** is a ✨ Team of smart contract auditors ✨
 
-credits:  [hunter](github.com/IlIlHunterlIlI)  and [Rzizah](github.com/rzizah) .
+credits:  [Hunter](github.com/IlIlHunterlIlI)  and [Rzizah](github.com/rzizah) .
 
 - 🔭 We are currently participating in public audit contests on [C4](https://code4rena.com/@bugpull) and [sherlock](https://audits.sherlock.xyz/watson/bugpull)
 - 👯 We help you secure your code
 - 💬 Ask for advice
 - 📫 How to reach us:
-  - [@BUGPULL](x.com/bugpull)
-  - [@hunter](x.com/IlIlHunterlIlI)
-  - [@rzizah](x.com/rzizah_)
+  - [@BugPull](x.com/bugpull)
+  - [@Hunter](x.com/IlIlHunterlIlI)
+  - [@Rzizah](x.com/rzizah_)
 
-# BUGPULL Auditing Portfolio
+# BugPull Auditing Portfolio
 This is the Audit portfolio collecting the contests the team participated in and the engagements in Web3 security.
 
 
