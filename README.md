@@ -22,4 +22,4 @@ This is the Audit portfolio collecting the contests the team participated in and
 
 | Contest                                                       | Description           | Findings                                   | Rank |                         Report                         |
 | :------------------------------------------------------------ | :-------------------- | :----------------------------------------- | :--: | :----------------------------------------------------: |
-| [munchables-LandManager](https://code4rena.com/audits/2024-07-munchables) | GameFi, Point Farming | [5 L, 3 H](Contests/2024-07-munchables.md) | 5th  | [📄](https://code4rena.com/reports/2024-07-munchables) |
+| [munchables-LandManager](https://code4rena.com/audits/2024-07-munchables) | GameFi, Point Farming | [1 L, 3 H](Contests/2024-07-munchables.md) | 5th  | [📄](https://code4rena.com/reports/2024-07-munchables) |
